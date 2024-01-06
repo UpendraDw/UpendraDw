@@ -1,5 +1,5 @@
 ### Hello Geeks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### My name is Upendra Dwivedi, I am working as a Data Engineer at Merilytics.
+#### Myself Upendra Dwivedi, I am working as a Data Engineer at Merilytics.
 #### Torturing data until it confesses its secrets :)
 
 
