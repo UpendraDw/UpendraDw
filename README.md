@@ -1,6 +1,5 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### My name is Upendra Dwivedi, I am working as a Data Engineer at Merilytics.
-#### Data is indispensable, Change my mind :)
+#### My name is Upendra Dwivedi, I am working as a Data Engineer at Merilytics, Torturing data until it confesses its secrets :)
 
 
 Skills: Python/ Apache Spark/ Azure Data Factory/ Azure Databricks/ SQL/ Azure DevOps
