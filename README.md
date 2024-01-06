@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### My name is Upendra Dwivedi
+#### I am working as a Data Engineer at Merilytics,
+Passionate about programming.
 
-<!--
-**UpendraDw/UpendraDw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Python/ Apache Spark/ Azure Data Factory/ Azure Databricks/ SQL/ Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Upendradwivedi&show_icons=true) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upendradwivedi)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Upendradwivedi)  
+
+![Profile views](https://gpvc.arturio.dev/Upendradwivedi)  
